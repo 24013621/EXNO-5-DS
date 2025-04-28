@@ -35,12 +35,7 @@ STEP 5:Include Necessary parameters in each functions.
 ![Screenshot 2025-04-18 105901](https://github.com/user-attachments/assets/cfaed855-86c6-4a17-b64b-b000017abb39)
 ![Screenshot 2025-04-18 105911](https://github.com/user-attachments/assets/49b6697c-d0e7-41a3-b465-5c6689aa7c65)
 ![Screenshot 2025-04-18 105918](https://github.com/user-attachments/assets/ace40149-afb7-4b79-a3f4-aea1c1b0a836)
-![Screenshot 2025-04-18 122125](https://github.com/user-attachments/assets/b1ed57bf-8094-41ad-b4cb-7a1b8503d9dc)
-![Screenshot 2025-04-18 122142](https://github.com/user-attachments/assets/d24631d6-06e0-4595-aff3-74a090b291c5)
-![Screenshot 2025-04-18 122210](https://github.com/user-attachments/assets/d8cb58d0-0a74-4998-b38f-50c49ea63702)
-![Screenshot 2025-04-18 122340](https://github.com/user-attachments/assets/5ff6043b-eb33-44a3-8475-2dfd14b191e3)
-![Screenshot 2025-04-18 122437](https://github.com/user-attachments/assets/25239dd9-a76c-4f62-880d-72ea6a4151c7)
-![Screenshot 2025-04-18 122446](https://github.com/user-attachments/assets/9b508e83-cc2f-460a-b89b-823d5b51cd2e)
+
 
 # Result:
 Thus, all the data visualization techniques of matplotlib has been implemented.
